@@ -1,8 +1,7 @@
-pip install pipwin
 pandas
 requests
 beautifulsoup4
-pipwin install gdal
-pipinstall georasters
+gdal
+georasters
 seaborn
 numpy
