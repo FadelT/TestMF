@@ -1,6 +1,7 @@
 pandas
 requests
 beautifulsoup4
+gdal
 georasters
 seaborn
 numpy
